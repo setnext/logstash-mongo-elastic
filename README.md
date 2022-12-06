@@ -55,5 +55,5 @@ Install ElasticVue from chrome Extension:
 
                 Check the Indices for Products
                 
-                <img width="1718" alt="image" src="https://user-images.githubusercontent.com/109475849/205901850-458d19bf-4159-47a5-8c40-529b98bc309f.png">
+               https://user-images.githubusercontent.com/109475849/205901850-458d19bf-4159-47a5-8c40-529b98bc309f.png
 
