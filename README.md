@@ -1,0 +1,1 @@
+# logstash-mongo-elastic
