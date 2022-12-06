@@ -44,5 +44,6 @@ Create Config File: config/logstash-mongo.conf
 
 
 
-Run
-      bin/logstash -f config/logstash-mongo.conf
+Run Below Command from Logstash Home Folder:
+
+            bin/logstash -f config/logstash-mongo.conf
